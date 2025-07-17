@@ -91,8 +91,8 @@ An exploratory data analysis project focused on Korean Dramas available on Netfl
 ## 📁 Project Files
 
 ```
-KDrama_Netflix_EDA/
-├── KDrama-DataAnalysis.ipynb   # Main analysis notebook     
+KDrama-DataAnalysis/
+├── KDrama_Analytics_Project.ipynb   # Main analysis notebook     
 └── README.md                    # Project overview 
 ```
 
