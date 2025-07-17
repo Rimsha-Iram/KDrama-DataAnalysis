@@ -1,7 +1,7 @@
-# 🎬 K-Drama Netflix EDA (1995–2023)
+# 🎬 KDrama-DataAnalysis 
 A Data-Driven Exploration of Trends, Genres, and Viewer Preferences
 
-An exploratory data analysis project focused on Korean Dramas available on Netflix between 2015 and 2023. This notebook explores content trends, genre distribution, actor frequency, ratings, and thematic patterns to uncover how the K-Drama industry has evolved over recent years.
+An exploratory data analysis project focused on Korean Dramas available on Netflix between 1995 and 2023. This notebook explores content trends, genre distribution, actor frequency, ratings, and thematic patterns to uncover how the K-Drama industry has evolved over recent years.
 
 ---
 
@@ -92,7 +92,7 @@ An exploratory data analysis project focused on Korean Dramas available on Netfl
 
 ```
 KDrama_Netflix_EDA/
-├── KDrama_EDA_1995_2023.ipynb   # Main analysis notebook     
+├── KDrama-DataAnalysis.ipynb   # Main analysis notebook     
 └── README.md                    # Project overview 
 ```
 
